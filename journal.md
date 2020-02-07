@@ -59,3 +59,4 @@ NOTE:I feel comfortable with basics of command line. I think I can progress with
 **HOUR 1**
 
 created the journal.md file from the command line.  inserted last week's hours and set up for this week.
+staged, committed, and pushed the journal markdown file
