@@ -59,4 +59,22 @@ NOTE:I feel comfortable with basics of command line. I think I can progress with
 **HOUR 1**
 
 created the journal.md file from the command line.  inserted last week's hours and set up for this week.
-staged, committed, and pushed the journal markdown file
+staged, committed, and pushed the journal markdown file.
+started working with Python: https://github.com/GC-DRI/python/blob/master/sections/repl.md.  I had done this in the DRI, and am familiar with the concepts from Comp. Ling. Methods course.  Finally, now, I "grok" it.  I stopped at "input", having reached limit. would like to resume here, next praxis:
+https://github.com/GC-DRI/python/blob/master/sections/input.md
+and to try: https://runestone.academy/runestone/books/published/thinkcspy/index.html How to Think Like a Computer Scientist: Interactive Edition.  signed up for this
+
+**HOUR 2**
+I looked at unordered lists, but I do not really understand how that will work in a file, where I'll certainly want to have listed items.  I prefer to use a ## hash heading for now.
+worked with runestone.academy.
+**note: When reading or writing code, say to yourself “n is assigned 17” or “n gets the value 17”** or “n is a reference to the object 17” or “n refers to the object 17”. Don’t say “n equals 17”.
+
+**HOURS 3 and 4**
+runestone.academy ch. 2, variables; and beginning of ch. 3, Debugging
+
+** WEEK of FEB 10:  SICK **
+
+**HOURS 5 & 6**
+chs. 4 & 5 runestone.academy Python Turtle Graphics
+i followed the learning modules, but when I tried to do the exercises at the end of chapter 4, i realized i had not internalized the steps of the procedure. I proceeded to ch. 5. I will try in my next session to toggle back and forth between exercises and the learning modules. 
+
