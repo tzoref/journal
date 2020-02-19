@@ -78,3 +78,8 @@ runestone.academy ch. 2, variables; and beginning of ch. 3, Debugging
 chs. 4 & 5 runestone.academy Python Turtle Graphics
 i followed the learning modules, but when I tried to do the exercises at the end of chapter 4, i realized i had not internalized the steps of the procedure. I proceeded to ch. 5. I will try in my next session to toggle back and forth between exercises and the learning modules. 
 
+**HOUR 7**
+returned to the lab resources for Week 2 on course syllabus https://github.com/smythp/software-design-lab (following Elena's suggestion)
+I think i have gotten what i can out of runestone.academy.
+A lot of my lab time got spent on reading instead of doing-- my frequent crutch.
+But I did spend around a half hour playing in a markdown document in vscode, which i created using the command line (and checked with cat command; markdown_tutorial.md)
