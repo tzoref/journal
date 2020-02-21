@@ -83,3 +83,10 @@ returned to the lab resources for Week 2 on course syllabus https://github.com/s
 I think i have gotten what i can out of runestone.academy.
 A lot of my lab time got spent on reading instead of doing-- my frequent crutch.
 But I did spend around a half hour playing in a markdown document in vscode, which i created using the command line (and checked with cat command; markdown_tutorial.md)
+
+# WEEK 3 
+# HOUR 1
+Python Programming/Creating Python Programs
+exercse 1 - 4 in https://learnpythonthehardway.org/book/ (despite my objections to the discourse form)
+
+# HOUR 1
