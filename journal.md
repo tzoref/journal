@@ -46,7 +46,7 @@ Working software over comprehensive documentation
 Customer collaboration over contract negotiation
 Responding to change over following a plan
 
-# WEEK 2 for WEEK 3
+# WEEKS 2 & 3
 **PLAN**
 From Patricks's mail, annotated: 
 1. Reinforce **command line** skills.
@@ -84,9 +84,30 @@ I think i have gotten what i can out of runestone.academy.
 A lot of my lab time got spent on reading instead of doing-- my frequent crutch.
 But I did spend around a half hour playing in a markdown document in vscode, which i created using the command line (and checked with cat command; markdown_tutorial.md)
 
-# WEEK 3 
-# HOUR 1
+# WEEK 4 
+# HOUR 1 
+# 21 February
 Python Programming/Creating Python Programs
-exercse 1 - 4 in https://learnpythonthehardway.org/book/ (despite my objections to the discourse form)
+exercise 1 - 4 in https://learnpythonthehardway.org/book/ (despite my objections to the discourse form)
 
-# HOUR 1
+# HOUR 2
+# 23 February
+exercises 5-10 in Learn Python the Hard Way
+
+# HOUR 3
+exercises 11-15 in Learn Python the Hard Way.  Had trouble with ex. 15.  i need to fill in some gap about working with command line in python. 
+
+# HOUR 4
+# 24 February 
+exercises 15-16.  only did 40 minutes
+
+# HOUR 5
+# 26 February
+exercise 17 in Learn Python the Hard Way, to complete "Hour 4"
+nearly completed part 1 of Django tutorial, though I'm not sure I got it all right:
+https://docs.djangoproject.com/en/3.0/intro/tutorial01/ .
+When I finish this, I might try part 2 of the tutorial, or try to follow this video:
+https://www.youtube.com/watch?v=UmljXZIypDc&fbclid=IwAR1PXZB6oCragUlCHXojvE21rE4rBQZlgc0YV25k6uPHbkzDRN0QfJwlH1Y
+Python Django Tutorial: Full-Featured Web App Part 1 - Getting Started
+
+
