@@ -111,3 +111,17 @@ https://www.youtube.com/watch?v=UmljXZIypDc&fbclid=IwAR1PXZB6oCragUlCHXojvE21rE4
 Python Django Tutorial: Full-Featured Web App Part 1 - Getting Started
 
 
+# WEEK 5
+(Did not track lab hours: Personal issues-- Family Quarantined due to COVID-19 exposure etc.)
+
+# WEEK 6
+# HOUR 1
+installed Jekyl (including overcoming some glitches. that felt really good-- not to give up in the face of errors, but to search solutions online--and find and implement them).
+HTML , using https://www.w3schools.com/html/html_intro.asp, at first in the editor provided with the tutorial, then shifted to VSCode. Got through basics, started "elements".
+
+# HOUR 2
+Javascript with http://jsforcats.com/
+
+# QUESTIONS: #   
+1. The tutorial states: "All HTML documents must start with a document type declaration: <!DOCTYPE html>." But we did not do this in our in-class exercise with the sloths?
+2. I can't insert images. I do not understand how to access an image or write the proper code.  But even when I used the image from the w3schools, it did not work. 
