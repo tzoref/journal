@@ -125,3 +125,35 @@ Javascript with http://jsforcats.com/
 # QUESTIONS: #   
 1. The tutorial states: "All HTML documents must start with a document type declaration: <!DOCTYPE html>." But we did not do this in our in-class exercise with the sloths?
 2. I can't insert images. I do not understand how to access an image or write the proper code.  But even when I used the image from the w3schools, it did not work. 
+
+# WEEK 7
+# HOUR 1
+Khan academy HTML.  I understand a bit more about inserting images in HTML
+
+# HOURS 2 & 3
+Khan academy general programming review
+
+# HOURS 4, 5, 6, 7
+HTML with W3schools https://www.w3schools.com/html/html_intro.asp: Elements, Attributes (href for links, with <a> tag; src for images with <img> tag; style; lang, title for tooltip), Headings, Paragraphs, Styles, Formatting, and some of Quotations (up to abbreviations).
+
+# QUESTIONS: #   
+1. The tutorial states: "All HTML documents must start with a document type declaration: <!DOCTYPE html>." But we did not do this in our in-class exercise with the sloths?
+2. I still can't insert images. I do not understand how to access an image or write the proper code. I get that I need to move it into the program's folder, but still don't get how. 
+3. I do not understand the difference between <b> bold and <strong> strong? and between <i> italics and <em> emphasis?
+
+# HOUR 8
+more HTML and some CSS with W3schools.  I think I'm saturated with this for now.
+
+# HOUR 9
+An Introduction to Programming Paradigms: https://digitalfellows.commons.gc.cuny.edu/2018/03/12/an-introduction-to-programming-paradigms/.  Imperative; stepped through Functional via copy & paste.  Need to spend more time with both. Maybe with Python the Hard Way?
+
+# HOUR 10
+
+I am at a wall with the programming paradigms.  Hope to push through it with class time. 
+for now, back to Python the Hard Way.
+.
+.
+.
+# MARCH 25
+Still at a wall.  
+It's not just COVID-19.  It's that I can't teach myself coding. I've tried in the past, and it's just not something I can do on my own. I can only do this "in community".  I tried joining Monday evening's session to re-connect, but could not stay. I hope that our class this evening will restore the framework that I need to do this independent work. 
