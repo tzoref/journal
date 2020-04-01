@@ -157,3 +157,25 @@ for now, back to Python the Hard Way.
 # MARCH 25
 Still at a wall.  
 It's not just COVID-19.  It's that I can't teach myself coding. I've tried in the past, and it's just not something I can do on my own. I can only do this "in community".  I tried joining Monday evening's session to re-connect, but could not stay. I hope that our class this evening will restore the framework that I need to do this independent work. 
+
+# MARCH 26
+# HOUR 1
+SQL with W3schools, up to Null Values https://www.w3schools.com/sql/sql_null_values.asp
+reading: https://github.com/DHRI-Curriculum/databases
+
+# HOUR 2
+SQL with W3schools, completed
+
+# HOUR 3, 4...
+(I started this at 10 AM, and it's now 3 PM.  my "1-2" hours of undisturbed coding has been interrupted by conversations with family, friends, colleagues, cooking, eating. i wonder what my longest stretch of work was. I think tomorrow I will aim for 15 minute intervals.  or at least 1)
+SQL from DHRI, up to here:
+https://github.com/DHRI-Curriculum/databases/blob/master/sections/8-innerjoin.md
+
+# HOUR 5
+SQL from DHRI.  But cannot download nypl_data/nypl_items.csv (MESSAGE: "Sorry about that, but we can't show files that are this big right now.)
+
+# HOUR 6
+some more SQL from DHRI, but mostly practice with GITHUB and terminal in trying to get the .csv file and move it around.
+and trying, unsuccessfully, to troubleshoot for this error when trying to import pandas:
+INTEL MKL ERROR: dlopen(/Users/shanitzoref/opt/anaconda3/lib/libmkl_core.dylib, 9): image not found.
+Intel MKL FATAL ERROR: Cannot load libmkl_core.dylib.
