@@ -179,3 +179,32 @@ some more SQL from DHRI, but mostly practice with GITHUB and terminal in trying 
 and trying, unsuccessfully, to troubleshoot for this error when trying to import pandas:
 INTEL MKL ERROR: dlopen(/Users/shanitzoref/opt/anaconda3/lib/libmkl_core.dylib, 9): image not found.
 Intel MKL FATAL ERROR: Cannot load libmkl_core.dylib.
+
+# APRIL 2
+# HOUR 1
+API: https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask#implementing-our-api
+
+
+
+APRIL 12 
+# HOURS 1-2 
+https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask#implementing-our-api
+
+# HOUR 3
+https://compedu.stanford.edu/karel-reader/docs/python/en/intro.html
+
+
+APRIL 17
+# HOURS 1-8
+Tasks 1 & 2 and related setup:  https://compedu.stanford.edu/codeinplace/v1/#/handout/Assignment1.pdf
+
+APRIL 19
+# HOURS 1-5
+Task 3 (Mid-point Karel) https://compedu.stanford.edu/codeinplace/v1/#/handout/Assignment1.pdf
+
+
+
+
+
+
+
