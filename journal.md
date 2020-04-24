@@ -212,5 +212,8 @@ created a final_project directory, and saved the json text of my text (tractate 
 created a json_Berakhot.py file to call this json text.
 I've not succeeded in uploading these to github
 
+# HOUR 3
+uploaded files to github by initializing a new depository and changing the name of the json file.
+
 
 
