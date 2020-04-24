@@ -203,8 +203,14 @@ APRIL 19
 Task 3 (Mid-point Karel) https://compedu.stanford.edu/codeinplace/v1/#/handout/Assignment1.pdf
 
 
+APRIL 23
+# HOUR 1
+python practice
 
-
+# HOUR 2
+created a final_project directory, and saved the json text of my text (tractate Berakhot) into the file.
+created a json_Berakhot.py file to call this json text.
+I've not succeeded in uploading these to github
 
 
 
