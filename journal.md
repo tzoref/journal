@@ -205,7 +205,7 @@ Task 3 (Mid-point Karel) https://compedu.stanford.edu/codeinplace/v1/#/handout/A
 
 APRIL 23
 # HOUR 1
-python practice
+python practice (stanford course, assignment 2)
 
 # HOUR 2
 created a final_project directory, and saved the json text of my text (tractate Berakhot) into the file.
@@ -215,5 +215,21 @@ I've not succeeded in uploading these to github
 # HOUR 3
 uploaded files to github by initializing a new depository and changing the name of the json file.
 
+# HOUR 4
+python practice (stanford course, assignment 2)
 
+# HOUR 5
+SQL:
+I cannot afford to purchase SQL the Hard Way, and probably would not want to in any case.
+I scored 76% on the quiz, W3Schools-- covering the material in the tutorial i did at the end of march.
+Clearly i need further review, but I don't think I'll get a good return on doing W3 over again.
+Repeating DHRI Session on Databases is proving worthwhile. I got up to https://github.com/DHRI-Curriculum/databases/blob/master/sections/9-importcsv.md "Import data into table"
 
+# HOUR 6
+SQL DHRI, up to https://github.com/DHRI-Curriculum/databases/blob/master/sections/11-querieschallenge.md
+(NOTE:  having done this in advance made it a lot less stressful to follow the SQL session, wed. night's class)
+
+APRIL 30
+# HOUR 1
+interacting with json Berakhot
+python practice
