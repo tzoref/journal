@@ -1,7 +1,6 @@
 
 # Create a text file of the textual material in the json Berakhot file that will be usable for text analysis
 
-
 import json
 
 with open('Berakhot_sefaria.json') as f:
@@ -61,23 +60,55 @@ print(type(text_list))
 print(text_list)
 
 # retrieve the values for the individual elements in the list "text_list"
-for i in text_list:
-    print(i)
-    print(len(i))
-    print(type(i))
+for element in text_list:
+    print(element)
+    print(len(element))
+    print(type(element))
     print("")
+
+# output: each element is a list
 
 print(text_list[0])
 print(text_list[1])
-test_paragraph = (text_list[7])
-print(len(test_paragraph))
-print(test_paragraph[0])
-for word in test_paragraph:
-    for letter in word:
-        print(letter)
+print(text_list[3])
+print(text_list[126])
+print(len(text_list[3]))
+print(len(text_list[126]))
 
-for paragraph in text_list:
-    for word in paragraph:
-        for letter in word:
+test_element = text_list[3]
+print(len(test_element))
+print(test_element[0])
+print(type(test_element[0]))
+
+# the elements in the list are strings
+
+string_text = ""
+for element in text_list:
+    for string in element:
+        for letter in string:
             print(letter)
-            
+            string_text = letter + string_text
+print(string_text)
+print(type(string_text))
+print(len(string_text))
+
+    
+
+
+#for i in range(126):
+    #text_element = text_list[i]
+    ##calculate the length of each text_element list
+    ## isolate the values in the element list, and identify their type
+    ## since the type output is string, i have named the variable "string_element"
+    #for s in range(counter):
+        ##string_element = text_element[s]
+        #print(string_element)
+        ##print(type(string_element))
+        
+        # isolate the letters in the strings
+        #letter = " "
+        #for l in string_element:
+            #letter += l
+#print(letter)
+#print(type(letter))
+#print(len(letter))

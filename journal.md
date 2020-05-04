@@ -272,3 +272,9 @@ I see that "line" is one of the elements in the dictionary key "sectionNames", b
 # HOUR 7
 I managed to isolate each letter of the text, and there is not problem with the sequence of the letters.
 Now my challenge is: how to save that input into a variable or file.
+
+# HOUR 8
+I've gotten the text into a string.  And the letters of each word are in the write sequence.
+Problems:
+(1) I think my code is a lot more complicated than it needs to be
+(2) the sequence of the text-blocs is wrong.  e.g., the final sentence should be the initial one. 
