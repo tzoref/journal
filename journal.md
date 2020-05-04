@@ -233,3 +233,36 @@ APRIL 30
 # HOUR 1
 interacting with json Berakhot
 python practice
+
+# HOUR 2
+flask https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask#implementing-our-api
+
+# HOUR 3
+python practice (stanford course: functions, parameters)
+attempt to map out final project:
+
+* *LONG-TERM GOAL*
+to create a database with information about the 13 traditional "hermeneutical principles" used in the Talmud and related rabbinic writings. 
+* *MID-RANGE GOAL*
+to catalogue and compare Talmudic occurrences of the "a fortiori" argument, a form of analogical reasoning, arguing from a mild case to a more severe case.  These instances are marked by technical terms, such as "qal va'chomer", "eino din", and "al achat kama ve'chama" (conventionally translated into English as: "a fortiori", "is it not clear from comparison", "all the more so".)
+* *COURSE PROJECT GOAL*
+to search for instances of this argument by means of the expressions "qal va'chomer" and "eino din" and "al achat kama ve'chama" in the first "tractate" of the Babylonian Talmud-- "Berakhot" (English: "Blessings").
+
+STEPS: 
+1. DOWNLOAD the JSON code for the Aramaic text of tractate Berakhot from the open source website www.sefaria.org: Berakhot_sefaria.json
+2. CREATE a file to get the data into python: json_Berakhot.py
+3. CREATE a TEXT FILE containing the text in a non-nested form.
+4. SEARCH for the desired terms and print out the occurrences: either marked by surrounding words or some other way of identifying location.  including page number.
+
+# HOUR 4 & HOUR 5
+puzzling over how to convert json file to text file.
+colleague recommended https://www.youtube.com/watch?v=9N6a-VLBa2I&feature=youtu.be&t=530&fbclid=IwAR3unxux7O5ZLaaJ1f4fbdqahiuHw9dnbSDIbtDCYYHNx3hBLBm8TLdMyHg
+
+python review and practice: https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU (through Lesson 5, Dictionaries)
+
+# HOUR 6
+python review and practice: Corey Schafer videos, from 6: Working with Key Values; Conditionals & Booleans; Loops and Iterations; Functions ("keeping code dry"-- using variables & functions)
+Did some more poking around the Berakhot json file, attempting to be more comprehensive.
+I realized that the words are all backwards when I print out text by running the python file.
+The original json file is fine, where the text is separated into a series of strings.  
+I see that "line" is one of the elements in the dictionary key "sectionNames", but i don't know if the strings correspond to lines, or how to make this information work for me if it is the case.
