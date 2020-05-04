@@ -72,3 +72,12 @@ print(text_list[1])
 test_paragraph = (text_list[7])
 print(len(test_paragraph))
 print(test_paragraph[0])
+for word in test_paragraph:
+    for letter in word:
+        print(letter)
+
+for paragraph in text_list:
+    for word in paragraph:
+        for letter in word:
+            print(letter)
+            

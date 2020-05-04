@@ -266,3 +266,9 @@ Did some more poking around the Berakhot json file, attempting to be more compre
 I realized that the words are all backwards when I print out text by running the python file.
 The original json file is fine, where the text is separated into a series of strings.  
 I see that "line" is one of the elements in the dictionary key "sectionNames", but i don't know if the strings correspond to lines, or how to make this information work for me if it is the case.
+.
+.
+.
+# HOUR 7
+I managed to isolate each letter of the text, and there is not problem with the sequence of the letters.
+Now my challenge is: how to save that input into a variable or file.
